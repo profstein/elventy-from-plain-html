@@ -1,5 +1,6 @@
 ---
 title: Home
+pageClass: homePage
 layout: base.njk
 tags: navItem
 ---

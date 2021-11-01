@@ -1,5 +1,6 @@
 ---
 title: About
+pageClass: aboutPage
 layout: base.njk
 tags: navItem
 ---

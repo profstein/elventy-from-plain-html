@@ -1,5 +1,6 @@
 ---
 title: Gallery
+pageClass: galleryPage
 layout: base.njk
 tags: navItem
 ---
