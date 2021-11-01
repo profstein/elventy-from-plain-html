@@ -1,5 +1,6 @@
 ---
 title: Sample page
+pageClass: samplePage
 layout: base.njk
 tags: 
 ---
