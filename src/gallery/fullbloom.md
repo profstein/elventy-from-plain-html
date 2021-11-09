@@ -2,7 +2,7 @@
 title: Full Bloom
 layout: base.njk
 tags:
- - gallery
+  - gallery
   - image
   - flowers
 img:

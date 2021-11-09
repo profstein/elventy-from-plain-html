@@ -1,7 +1,10 @@
 ---
 title: Gallery
 layout: base.njk
-tags: galleryImage
+tags: 
+  - gallery
+  - image
+  - flowers
 ---
 <h1 class="pageTitle">Fan of flowers</h1>
 <div class="image">
