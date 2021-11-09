@@ -5,6 +5,15 @@ layout: base.njk
 tags: navItem
 ---
 <h1 class="pageTitle">Gallery</h1>
+
+<h2>Dynamic</h2>
+<p>We will add in a dynamic list of images here.</p>
+
+
+
+<h2>Hard Coded</h2>
+<p>The list below is hard coded and hard to change or maintain.</p>
+
 <div class="gallery">
 <div class="card">
   <a href="/gallery/fullbloom"><img src="/images/jennifer-marquez-WW-TIGWKCyc-unsplash.jpg" alt="Full Bloom"></a>
